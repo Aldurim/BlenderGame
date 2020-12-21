@@ -127,3 +127,4 @@ if os.path.isfile(path + curScene.name + "/temp_doors"):
     
 
         
+
